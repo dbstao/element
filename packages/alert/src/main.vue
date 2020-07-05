@@ -16,7 +16,7 @@
         <i class="el-alert__closebtn" :class="{ 'is-customed': closeText !== '', 'el-icon-close': closeText === '' }" v-show="closable" @click="close()">{{closeText}}</i>
       </div>
     </div>
-    <div></div>
+    <div>0052</div>
   </transition>
 </template>
 
